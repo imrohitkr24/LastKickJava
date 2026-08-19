@@ -15,3 +15,4 @@ public class AreaCircle {
         System.out.println("Area of the circle is : " + area);
     }
 }
+//Time and Space complexity is O(1)..

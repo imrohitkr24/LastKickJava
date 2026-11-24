@@ -37,16 +37,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/imrohitkr24/LastKickJava/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/imrohitkr24/LastKickJava/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/imrohitkr24/LastKickJava/tree/master/0037-sudoku-solver) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/imrohitkr24/LastKickJava/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/imrohitkr24/LastKickJava/tree/master/0037-sudoku-solver) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/imrohitkr24/LastKickJava/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/imrohitkr24/LastKickJava/tree/master/0037-sudoku-solver) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/imrohitkr24/LastKickJava/tree/master/0031-next-permutation) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/imrohitkr24/LastKickJava/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/imrohitkr24/LastKickJava/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/imrohitkr24/LastKickJava/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

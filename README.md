@@ -32,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/imrohitkr24/LastKickJava/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/imrohitkr24/LastKickJava/tree/master/0025-reverse-nodes-in-k-group) |
+## Array
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/imrohitkr24/LastKickJava/tree/master/0036-valid-sudoku) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/imrohitkr24/LastKickJava/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/imrohitkr24/LastKickJava/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->

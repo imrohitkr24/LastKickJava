@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/imrohitkr24/LastKickJava/tree/master/0043-multiply-strings) |
 | [3099-harshad-number](https://github.com/imrohitkr24/LastKickJava/tree/master/3099-harshad-number) |
 ## Linked List
 |  |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/imrohitkr24/LastKickJava/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/imrohitkr24/LastKickJava/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/imrohitkr24/LastKickJava/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
